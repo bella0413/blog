@@ -1,5 +1,4 @@
 cd public
-
 git add .
 
 @echo off
